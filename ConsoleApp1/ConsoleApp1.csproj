@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\aliyun-netCore-oss-sdk\aliyun-netCore-oss-sdk.csproj" />
+    <ProjectReference Include="..\aliyun-netCore-sdk-core\aliyun-netCore-sdk-core.csproj" />
+    <ProjectReference Include="..\aliyun-netCore-sdk-dysmsapi\aliyun-netCore-sdk-dysmsapi.csproj" />
+  </ItemGroup>
+
+</Project>
