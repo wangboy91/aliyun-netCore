@@ -6,9 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\aliyun-net-sdk-core\aliyun-net-sdk-core.csproj" />
+    <ProjectReference Include="..\aliyun-net-sdk-dysmsapi\aliyun-net-sdk-dysmsapi.csproj" />
     <ProjectReference Include="..\aliyun-netCore-oss-sdk\aliyun-netCore-oss-sdk.csproj" />
-    <ProjectReference Include="..\aliyun-netCore-sdk-core\aliyun-netCore-sdk-core.csproj" />
-    <ProjectReference Include="..\aliyun-netCore-sdk-dysmsapi\aliyun-netCore-sdk-dysmsapi.csproj" />
   </ItemGroup>
 
 </Project>
