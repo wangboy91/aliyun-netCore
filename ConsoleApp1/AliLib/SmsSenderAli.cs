@@ -25,8 +25,8 @@ namespace Wboy.Infrastructure.Core.AliLib
         private readonly string _accessSecret;
         private readonly string _signName;
         private readonly string _smsTemplateCode;
-        //private const string AccessId = "LTAI4yYSeH43LQU0";
-        //private const string AccessKey = "Hc1zscUFhy323rG0pEJScJZbVJoL4A";
+        //private const string AccessId = "";
+        //private const string AccessKey = "";
         
         /// <summary>
         /// 自己实现缓存
